@@ -1,12 +1,7 @@
-# Data
-data/
-*.csv
-*.parquet
-*.json
-
-# Python Environment
 .venv/
-__pycache__/
-
-# IDE/OS files
-.DS_Store
+*.pyc
+temp/
+data/
+*.7z
+Posts.xml
+titanic.csv
