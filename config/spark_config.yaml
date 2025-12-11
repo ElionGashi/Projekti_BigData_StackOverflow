@@ -1,0 +1,28 @@
+# Apache Spark Configuration
+
+# Application settings
+app_name: "BigDataProject"
+spark_master: "local[*]"
+
+# Memory settings
+executor_memory: "2g"
+driver_memory: "2g"
+executor_cores: 2
+
+# Performance tuning
+spark_sql_shuffle_partitions: 200
+spark_default_parallelism: 4
+
+# Serialization
+spark_serializer: "org.apache.spark.serializer.KryoSerializer"
+
+# Dynamic allocation
+spark_dynamicAllocation_enabled: false
+spark_shuffle_service_enabled: false
+
+# Logging
+spark_eventLog_enabled: false
+spark_eventLog_dir: "file:///tmp/spark-events"
+
+# UI
+spark_ui_port: 4040
