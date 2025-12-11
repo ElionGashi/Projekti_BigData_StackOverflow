@@ -1,0 +1,12 @@
+# Data
+data/
+*.csv
+*.parquet
+*.json
+
+# Python Environment
+.venv/
+__pycache__/
+
+# IDE/OS files
+.DS_Store
