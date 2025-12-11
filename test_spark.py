@@ -30,7 +30,7 @@ try:
     df = spark.read.format("xml") \
         .option("rowTag", "row") \
         .load(DATA_FILE)
-
+#hadba
     print("\n--- I. EKSPLORIMI I TE DHENAVE (Posts.xml Full) ---")
     df.printSchema()
     
