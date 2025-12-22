@@ -253,5 +253,8 @@ For issues, check the documentation:
 This project uses Stack Overflow data. Ensure you comply with Stack Overflow's data usage terms.
 
 ---
+Where to download csv to put inside /data:
+
+https://storage.googleapis.com/kaggle-data-sets/265/726723/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20251211%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251211T220249Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=13202ab9592e49bb38fdeec9ffca31d37e801250a6937828a9018665a74adbf0cbfcda4131505839c69ad5e14185266349d9fb4541f7b6990b349f9336adb50bae7777bfddd38f14a01a7b03cb4471069e50439eba1ef3dc3b14d14a7b3c864ea293c7666f829cd14baa16e6d0b2e4cf7a75266cc12b45ee61a9306a6a92feeb63c5454a22f7522cb8ad9cb28037c90cd7331189b33777eb3ab9fa395fcfa85de3a15a323893acfc3f033f6a99ac94b9ff354a719edc9225237288f71394717afc166c099219747b4964433f053c2cdcf4d162a20524053d9100b674b05273a76a72ec451a3844546c0297d092202f7a8825a5ef14ca06113ced0ec58157dee7
 
 **Ready to analyze?** Run `python app.py` and `npm start` to get started! 🚀📊
